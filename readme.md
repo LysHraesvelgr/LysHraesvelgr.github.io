@@ -1,12 +1,27 @@
-<body style="background-color:#000000">
+<style>
+.gold {
+  color: #ecbe91;
+}
+.sus {
+  color: #be91ec;
+}
+.bgblack { 
+  background-color:#000000;
+}
+</style>
 
-<ass style="color:#be91ec">
+<body class="bgblack">
+
+<ass class="sus">
 
 # Social
+
 + [tree][6]
+
 + [card][7]
 
 # Hub links
+
 + [yes that hub][1]
 
 + [RL hub][111]
