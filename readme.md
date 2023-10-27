@@ -5,7 +5,7 @@
 + [card][7]
 
 
-<ass2 class=gold>
+<ass2 class="gold">
 
 # Hub links
 
