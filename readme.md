@@ -1,22 +1,3 @@
-<style>
-
-.gold {
-  color: #ecbe91;
-}
-
-.sus {
-  color: #be91ec;
-}
-
-.tits { 
-  color: #be91ec;
-  background-color:#000000;
-}
-
-</style>
-
-<body> <ass class=tits>
-
 # Social
 
 + [tree][6]
@@ -43,8 +24,6 @@
 + [a bakkes plugin][4]
 
 
-
-</ass></body>
 
 ---
 
