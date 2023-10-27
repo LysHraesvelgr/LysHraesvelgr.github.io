@@ -1,3 +1,5 @@
+<ass style="color:#be91ec; background-color:#000000">
+
 # Social
 + [tree][6]
 + [card][7]
@@ -15,9 +17,10 @@
  
 + [a bakkes plugin][4]
 
-
+</ass>
 
 ---
+
 [1]: https://github.com/LysHraesvelgr/ "hub"
 [11]: https://github.com/LysHraesvelgr/LysHraesvelgr.github.io "site repo"
 [1111]: https://github.com/LysHraesvelgr/http-protocol-redirector "redi repo"
