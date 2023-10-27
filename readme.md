@@ -10,15 +10,15 @@
 }
 </style>
 
-<body class="bgblack">
-
-<ass class="sus">
+<body class="bgblack sus">
 
 # Social
 
 + [tree][6]
 
 + [card][7]
+
+
 
 # Hub links
 
@@ -34,9 +34,10 @@
  
 + [a bakkes plugin][4]
 
-</ass>
+
 
 </body>
+
 ---
 
 [1]: https://github.com/LysHraesvelgr/ "hub"
