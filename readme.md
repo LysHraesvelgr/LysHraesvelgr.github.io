@@ -1,4 +1,6 @@
-<ass style="color:#be91ec; background-color:#000000">
+<body style="background-color:#000000">
+
+<ass style="color:#be91ec">
 
 # Social
 + [tree][6]
@@ -19,6 +21,7 @@
 
 </ass>
 
+</body>
 ---
 
 [1]: https://github.com/LysHraesvelgr/ "hub"
