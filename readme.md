@@ -1,16 +1,21 @@
 <style>
+
 .gold {
   color: #ecbe91;
 }
+
 .sus {
   color: #be91ec;
 }
-.bgblack { 
+
+.tits { 
+  color: #be91ec;
   background-color:#000000;
 }
+
 </style>
 
-<body class="bgblack sus">
+<body> <ass class=tits>
 
 # Social
 
@@ -19,8 +24,11 @@
 + [card][7]
 
 
+<ass2 class=gold>
 
 # Hub links
+
+</ass2>
 
 + [yes that hub][1]
 
@@ -36,7 +44,7 @@
 
 
 
-</body>
+</ass></body>
 
 ---
 
