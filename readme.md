@@ -1,10 +1,10 @@
 <style>
 body {
-    color: #be91ec;
+    color: #91ecbe;
     background: #000000;
 }
 h1 {
-color: #ecbe91;
+color: #be91ec;
 }
 </style>
 
@@ -28,7 +28,7 @@ color: #ecbe91;
 
 + [redirector][22]
  
-+ [a bakkes plugin][4]
+    + example: [instant suite plugin][4]
 
 
 
@@ -41,7 +41,7 @@ color: #ecbe91;
 
 [2]: https://lyshraesvelgr.github.io "main io"
 [22]: https://lyshraesvelgr.github.io/http-protocol-redirector "redi io"
-[4]: https://lyshraesvelgr.github.io/http-protocol-redirector?r=bakkesmod://install/14/ "REDIRECT TEST - works"
+[4]: https://lyshraesvelgr.github.io/http-protocol-redirector?r=bakkesmod://install/14/ "bakkesmod://install/14"
 
 [6]: https://lyshraesvelgr.github.io/http-protocol-redirector?r=https://letmegooglethat.com/?q=linktr.ee%2FelysiaX "Socials"
 [7]: https://carrd.co/dashboard/2281169241170385/edit "card"
