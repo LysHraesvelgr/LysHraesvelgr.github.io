@@ -13,7 +13,7 @@
 
 + [yes that hub][1]
 
-+ [RL hub][111]
++ [RL][111]
 
 + [redirector][1111]
 
@@ -36,5 +36,5 @@
 [22]: https://lyshraesvelgr.github.io/http-protocol-redirector "redi io"
 [4]: https://lyshraesvelgr.github.io/http-protocol-redirector?r=bakkesmod://install/14/ "REDIRECT TEST - works"
 
-[6]: https://lyshraesvelgr.github.io/http-protocall-redirector?r=https://letmegooglethat.com/?q=linktr.ee%2FelysiaX&l=1 "Socials"
-[7]: https://carrd.co/dashboard/2281169241170385/edit 
+[6]: https://lyshraesvelgr.github.io/http-protocol-redirector?r=https://letmegooglethat.com/?q=linktr.ee%2FelysiaX "Socials"
+[7]: https://carrd.co/dashboard/2281169241170385/edit "card"
