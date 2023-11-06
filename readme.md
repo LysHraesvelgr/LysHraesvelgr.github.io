@@ -1,15 +1,20 @@
+<style>
+body {
+    color: #be91ec;
+    background: #000000;
+}
+h1 {
+color: #ecbe91;
+}
+</style>
+
 # Social
 
 + [tree][6]
 
 + [card][7]
 
-
-<ass2 class="gold">
-
 # Hub links
-
-</ass2>
 
 + [yes that hub][1]
 
@@ -17,7 +22,9 @@
 
 + [redirector][1111]
 
-# [Pages][2]
+# Pages
+
++ [this page lol][2]
 
 + [redirector][22]
  
