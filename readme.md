@@ -48,7 +48,7 @@ color: #be91ec;
 
 ---
 [items]: https://lyshraesvelgr.github.io/trade-list "before DEC 5th"
-[1]: https://github.com/LysHraesvelgr/ "hub"
+[1]: https://github.com/LysHraesvelgr/ "the hub"
 [11]: https://github.com/LysHraesvelgr/LysHraesvelgr.github.io "site repo"
 [1111]: https://github.com/LysHraesvelgr/http-protocol-redirector "redi repo"
 [111]: https://github.com/Lyshraesvelgr/RL "RL base"
