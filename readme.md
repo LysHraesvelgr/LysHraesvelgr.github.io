@@ -31,12 +31,12 @@ color: #be91ec;
 + [Final Haul. Trading is over][items] 
 
 + [AC130 inbound][222]
+
 <!--
 + [redirector][22]
  
     + example: [instant suite plugin][4]
 -->
-
 
 ---
 [items]: https://lyshraesvelgr.hithub.io/trade-list "before DEC 5th"
