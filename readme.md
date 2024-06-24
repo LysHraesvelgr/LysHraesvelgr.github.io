@@ -26,7 +26,7 @@ color: #be91ec;
 
 + [this page lol][2]
 
-+ [RL items i seek][items] 
++ [Final Haul. Trading is over][items] 
 
 + [redirector][22]
  
