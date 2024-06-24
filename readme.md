@@ -8,11 +8,15 @@ color: #be91ec;
 }
 </style>
 
+---
+
 # Social
 
 + [tree][6]
 
 + [card][7]
+
+---
 
 # Hub links
 
@@ -24,9 +28,13 @@ color: #be91ec;
 + [redirector][1111]
 -->
 
+---
+
 # Pages
 
+<!-->
 + [this page lol][2]
+-->
 
 + [Final Haul. Trading is over][items] 
 
