@@ -58,5 +58,5 @@ color: #be91ec;
 [222]: https://lyshraesvelgr.github.io/AC130 "investigate, wanderer"
 [4]: https://lyshraesvelgr.github.io/http-protocol-redirector?r=bakkesmod://install/14/ "bakkesmod://install/14"
 
-[6]: https://lyshraesvelgr.github.io/http-protocol-redirector?r=https://letmegooglethat.com/?q=linktr.ee%2FelysiaX "Socials"
+[6]: https://linktr.ee/ElysiaX "Socials"
 [7]: https://carrd.co/dashboard/2281169241170385/edit "card"
