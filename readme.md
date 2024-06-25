@@ -32,7 +32,7 @@ color: #be91ec;
 
 # Pages
 
-<!-->
+<!--
 + [this page lol][2]
 -->
 
