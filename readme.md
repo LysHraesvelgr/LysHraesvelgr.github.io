@@ -16,6 +16,8 @@ color: #be91ec;
 
 + [card][7]
 
++ [AC130 inbound][222]
+
 ---
 
 # Hub links
@@ -37,8 +39,6 @@ color: #be91ec;
 -->
 
 + [Final Haul. Trading is over][items] 
-
-+ [AC130 inbound][222]
 
 <!--
 + [redirector][22]
