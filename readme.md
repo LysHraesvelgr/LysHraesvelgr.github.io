@@ -1,11 +1,24 @@
-<style>
-body {
-    color: #91ecbe;
-    background: #000000;
-}
-h1 {
-color: #be91ec;
-}
+<STYLE>
+    body {
+        background:hsl(150, 70.50%, 3%);
+        color: #91ecBE;
+    }    
+    li {
+        color: #be91ec;
+    }
+    h2 {
+        color: #ecbe91;
+    }
+    h5 {
+        color:red;
+    }
+    h6 {
+        color:#355;
+    }
+    code {
+        background:hsl(270, 70.50%, 18.67%);
+        color: #ffffff;
+    }
 </style>
 
 ---
